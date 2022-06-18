@@ -1,0 +1,13 @@
+{
+  "posts": [
+    {
+      "data": {
+        "slug": "teste",
+        "title": "isso é um teste",
+        "description": "nada",
+        "content": "nada"
+      },
+      "id": 1
+    }
+  ]
+}
