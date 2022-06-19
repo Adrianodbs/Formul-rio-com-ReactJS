@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Formul-rio-com-ReactJS/static/css/main.4ad07636.css",
+    "main.js": "/Formul-rio-com-ReactJS/static/js/main.bda5e53f.js",
+    "index.html": "/Formul-rio-com-ReactJS/index.html",
+    "main.4ad07636.css.map": "/Formul-rio-com-ReactJS/static/css/main.4ad07636.css.map",
+    "main.bda5e53f.js.map": "/Formul-rio-com-ReactJS/static/js/main.bda5e53f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4ad07636.css",
+    "static/js/main.bda5e53f.js"
+  ]
+}
